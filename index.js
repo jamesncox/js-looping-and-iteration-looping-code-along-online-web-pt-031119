@@ -9,7 +9,7 @@ function writeCards(names, event) {
   }
   return thankYouCards;
 }
-// 
+//
 // function countDown(countdown) {
 //   while (countdown > 0) {
 //     console.log(countdown);
