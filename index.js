@@ -1,7 +1,8 @@
 // Code your solutions in this file
-const
+const names = ["Ada", "Brendan", "Ali"]
+const event = "birthday"
 
-function writeCards() {
+function writeCards(names, event) {
 
 
 }
@@ -15,4 +16,4 @@ function writeCards() {
 //
 //   return gifts;
 // }
-//  
+//
