@@ -10,12 +10,12 @@ function writeCards(names, event) {
   return thankYouCards;
 }
 //
-function countDown(countdown) {
-  while (countdown > 0) {
-    console.log(countdown);
+function countDown( countdown ) {
+  while ( countdown > 0 ) {
+    console.log( countdown );
     countown -= 1;
   }
-  console.log(countdown);
+  console.log( countdown );
 }
 
 // function countdown( countdown ) {
