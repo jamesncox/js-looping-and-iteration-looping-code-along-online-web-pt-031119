@@ -10,15 +10,10 @@ function writeCards(names, event) {
   return thankYouCards;
 }
 
-// 'Thank you, Lisa, for the wonderful surprise gift!'
-
-// const gifts = ["teddy bear", "drone", "doll"];
-//
-// function wrapGifts(gifts) {
-//   for (let i = 0; i < gifts.length; i++) {
-//     console.log(`Wrapped ${gifts[i]} and added a bow!`);
-//   }
-//
-//   return gifts;
-// }
-//
+function countDown(countdown) {
+  while (countdown > 0) {
+    console.log(countdown);
+    countown -= 1;
+  }
+  console.log(countdown)
+}
