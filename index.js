@@ -15,5 +15,5 @@ function countDown(countdown) {
     console.log(countdown);
     countown -= 1;
   }
-  console.log(countdown)
+  console.log(countdown);
 }
