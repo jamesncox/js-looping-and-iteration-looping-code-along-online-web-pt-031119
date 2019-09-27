@@ -1,9 +1,11 @@
 // Code your solutions in this file
-const names = ["Ada", "Brendan", "Ali"]
-const event = "birthday"
+const names = [ 'Lisa', 'Kaitlin', 'Jan' ]
+const event = 'suprise'
 
 function writeCards(names, event) {
-
+  for (let i = 0; i < names.length; i++) {
+    console.log(``)
+  }
 
 }
 
